@@ -1,8 +1,7 @@
-# android-projects-portfolio
+## android-projects-portfolio
 A collection of Android projects showcasing my journey learning **Kotlin**, **Jetpack Compose**, and **modern Android app architecture**.  
 The projects are arranged from **beginner to intermediate/advanced**, reflecting my growth in UI design, state management, networking, local persistence, and adaptive layouts
 
----
 
 ### 1. Business Card App (Beginner)
 
@@ -16,7 +15,7 @@ The projects are arranged from **beginner to intermediate/advanced**, reflecting
  **Repository:**  
  https://github.com/serventino-servenn/business-card-compose.git
 
----
+
 
 ### 2. Interactive Art Space App (Beginner-Intermediate)
 
@@ -31,7 +30,6 @@ The projects are arranged from **beginner to intermediate/advanced**, reflecting
 **Repository:**  
 https://github.com/serventino-servenn/art-space-app.git
 
----
 
 ### 3. Smart Home Device Simulator (Beginner)
 
@@ -46,7 +44,6 @@ https://github.com/serventino-servenn/art-space-app.git
  **Repository:**  
 https://github.com/serventino-servenn/smart-home-device-simulator-kotlin.git
 
----
 
 ### 4. 30 Days Wellness App (Intermediate)
 
@@ -61,7 +58,6 @@ https://github.com/serventino-servenn/smart-home-device-simulator-kotlin.git
  **Repository:**  
  https://github.com/serventino-servenn/30dayswellness.git
 
----
 
 ### 5. City Guide App (Intermediate)
 
@@ -76,7 +72,6 @@ https://github.com/serventino-servenn/smart-home-device-simulator-kotlin.git
  **Repository:**  
  https://github.com/serventino-servenn/My-City-App.git
 
----
 
 ### 6.  Flight Search App (Intermediate-Advanced)
 
@@ -92,7 +87,6 @@ https://github.com/serventino-servenn/smart-home-device-simulator-kotlin.git
  **Repository:**  
 https://github.com/serventino-servenn/Flight-Search-App.git
 
----
 
 ### 7. Bookshelf App (Intermediate)
 
@@ -108,7 +102,6 @@ https://github.com/serventino-servenn/Flight-Search-App.git
  **Repository:**  
 https://github.com/serventino-servenn/BookShelf-App.git
 
----
 
 This portfolio demonstrates my progression from **basic Compose UI skills** to **networking, local data persistence, and adaptive UI design**, showcasing my readiness for a **Junior Android Developer** role.
 
