@@ -3,7 +3,7 @@ A collection of Android projects showcasing my journey learning **Kotlin**, **Je
 The projects are arranged from **beginner to intermediate/advanced**, reflecting my growth in UI design, state management, networking, local persistence, and adaptive layouts
 
 
-### 1. Business Card App (Beginner)
+## 1. Business Card App (Beginner)
 
 **Focus:** Core Compose UI fundamentals
 
@@ -17,7 +17,7 @@ The projects are arranged from **beginner to intermediate/advanced**, reflecting
 
 
 
-### 2. Interactive Art Space App (Beginner-Intermediate)
+## 2. Interactive Art Space App (Beginner-Intermediate)
 
 **Focus:** Interactive UI and Kotlin fundamentals
 
@@ -31,7 +31,7 @@ The projects are arranged from **beginner to intermediate/advanced**, reflecting
 https://github.com/serventino-servenn/art-space-app.git
 
 
-### 3. Smart Home Device Simulator (Beginner)
+## 3. Smart Home Device Simulator (Beginner)
 
 **Focus:** Core Kotlin fundamentals and object-oriented programming  
 
@@ -45,7 +45,7 @@ https://github.com/serventino-servenn/art-space-app.git
 https://github.com/serventino-servenn/smart-home-device-simulator-kotlin.git
 
 
-### 4. 30 Days Wellness App (Intermediate)
+## 4. 30 Days Wellness App (Intermediate)
 
 **Focus:** Lists, Material Design, and animations
 
@@ -59,7 +59,7 @@ https://github.com/serventino-servenn/smart-home-device-simulator-kotlin.git
  https://github.com/serventino-servenn/30dayswellness.git
 
 
-### 5. City Guide App (Intermediate)
+## 5. City Guide App (Intermediate)
 
 **Focus:** Navigation, adaptive layouts, and modern architecture
 
@@ -73,7 +73,7 @@ https://github.com/serventino-servenn/smart-home-device-simulator-kotlin.git
  https://github.com/serventino-servenn/My-City-App.git
 
 
-### 6.  Flight Search App (Intermediate-Advanced)
+## 6.  Flight Search App (Intermediate-Advanced)
 
 **Focus:** Local persistence, SQL, and user preferences  
 
@@ -88,7 +88,7 @@ https://github.com/serventino-servenn/smart-home-device-simulator-kotlin.git
 https://github.com/serventino-servenn/Flight-Search-App.git
 
 
-### 7. Bookshelf App (Intermediate)
+## 7. Bookshelf App (Intermediate)
 
 **Focus:** Networking, concurrency, and repository architecture  
 
