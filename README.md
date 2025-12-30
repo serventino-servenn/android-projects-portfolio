@@ -62,12 +62,7 @@ https://github.com/serventino-servenn/smart-home-device-simulator-kotlin.git
 ## 4. 30 Days Wellness App (Intermediate)
 
 **Focus:** Lists, Material Design, and animations
-
- **What this project represents**  
-- Displays a **scrollable list of daily fitness exercises** using **LazyColumn** and Material Cards  
-- Implements **custom themes, typography, colors, and shapes**  
-- Adds **interactive cards with expandable sections** and animations  
-- Reinforces **structuring data with Kotlin data classes** and responsive UI patterns  
+An app that displays a scrollable list of daily fitness exercises with interactive Material Cards, expandable sections, and animations, while applying custom themes.
 
 
  **Repository:**  
