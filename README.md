@@ -24,7 +24,7 @@ The projects are arranged from **beginner to intermediate/advanced**, reflecting
 
 **Tools:** Android Studio, Git, GitHub
 
-### Course credit:Android Basics with Jetpack Compose
+## Course credit:Android Basics with Jetpack Compose
 https://developer.android.com/courses/android-basics-compose/course
 
 # Projects Overview
