@@ -50,6 +50,31 @@ An app that allows users to search for books using the Google Books API, with ad
 A flight search application featuring autocomplete search, favorites, and persistent user preferences.  
 **Repository:** https://github.com/serventino-servenn/Flight-Search-App.git
 
+---
+
+## Personal Projects
+### 8. Smart Media Optimizer (In Progress,intermediate-advanced)  
+
+**Focus:** Background processing with Android WorkManager  
+**Status:** Foundation established - ready for implementation  
+
+**What's Completed:**
+-  Android Studio project setup with Jetpack Compose
+-  WorkManager and required dependencies configured  
+-  Git repository with clean commit history
+-  Basic project structure planned
+
+**What's Next:**
+- Implement ImageCompressionWorker with WorkManager
+- Build Compose UI for one-time work tasks
+- Add chained workflow for multi-step processing
+- Integrate Pexels API for image sources
+
+**Technologies:** Kotlin, Android WorkManager, Jetpack Compose, Coroutines  
+**Repository:** https://github.com/serventino-servenn/smart-media-optimizer.git  
+**Expected Completion:** Janaury 10 2026
+
+---
 ## Inspiration & Learning
 These projects were initially inspired by the curriculum of [Android Basics with Jetpack Compose](https://developer.android.com/courses/android-basics-compose/course). Each project was then **extended, customized, and architected independently** to explore advanced concepts, deeper architecture, and personal design choices beyond the initial scope.
 
