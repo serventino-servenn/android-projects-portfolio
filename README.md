@@ -56,7 +56,7 @@ A flight search application featuring autocomplete search, favorites, and persis
 ### 8. Smart Media Optimizer -In Progress(intermediate-advanced)  
 
 **Focus:** Background processing with Android WorkManager  
-**Status:** Foundation established - ready for implementation  
+**Status:** Foundation established,ready for implementation  
 
 **What's Completed:**
 -  Android Studio project setup with Jetpack Compose
