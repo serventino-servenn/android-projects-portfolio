@@ -53,7 +53,7 @@ A flight search application featuring autocomplete search, favorites, and persis
 ---
 
 ## Personal Projects
-### 8. Smart Media Optimizer (In Progress,intermediate-advanced)  
+### 8. Smart Media Optimizer -In Progress(intermediate-advanced)  
 
 **Focus:** Background processing with Android WorkManager  
 **Status:** Foundation established - ready for implementation  
